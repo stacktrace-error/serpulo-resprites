@@ -1,6 +1,6 @@
-name: hover
-displayName: Assault Hovers
+name: serp-resp
+displayName: Serpulo Resprites
 hidden: true
-minGameVersion: 140
+minGameVersion: 136
 author: nullevoy
-version: cavity search
+version: 1.0
